@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestGcPrinter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_button">Print String</string>
+    <string name="btn_bmp">Select Text Bmp</string>
+    <string name="btn_s_bmp">Select color Bmp</string>
+</resources>

@@ -1,0 +1,7 @@
+#Mon Mar 21 16:25:50 CST 2022
+base.0=D\:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

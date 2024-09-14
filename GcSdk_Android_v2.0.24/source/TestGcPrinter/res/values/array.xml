@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="density">
+        <item>1 level</item>
+        <item>2 level</item>
+        <item>3 level</item>
+        <item>4 level</item>
+        <item>5 level</item>
+        <item>6 level</item>
+        <item>7 level</item>
+        <item>8 level</item>
+        <item>9 level</item>
+        <item>10 level</item>
+    </string-array>
+    
+    <string-array name="speed">
+        <item>1 level</item>
+        <item>2 level</item>
+        <item>3 level</item>
+        <item>4 level</item>
+        <item>5 level</item>
+        <item>6 level</item>
+        <item>7 level</item>
+        <item>8 level</item>
+        <item>9 level</item>
+        <item>10 level</item>
+    </string-array>
+</resources>

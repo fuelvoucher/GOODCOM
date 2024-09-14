@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e28422975cdbf249855ccda16421f984\support-v4-22.2.1\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:1-74:12
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:6:5-72:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e28422975cdbf249855ccda16421f984\support-v4-22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e28422975cdbf249855ccda16421f984\support-v4-22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.goodcom.gcnfcdemo.NFCActivity
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:13:13-45
+	android:excludeFromRecents
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:14:13-46
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:12:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.goodcom.gcnfcdemo.MF0Activity
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:23:13-40
+activity#com.goodcom.gcnfcdemo.NFC_Read
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:27:13-37
+activity#com.goodcom.gcnfcdemo.NFC_Write
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:32:13-62
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:31:13-38
+activity#com.goodcom.gcnfcdemo.MF1Activity
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:35:13-40
+activity#com.goodcom.gcnfcdemo.Mifare_Write
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:40:13-65
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:39:13-41
+activity#com.goodcom.gcnfcdemo.Mifare_Read
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:44:13-64
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:43:13-40
+activity#com.goodcom.gcnfcdemo.E_Wallet
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:48:13-61
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:47:13-37
+activity#com.goodcom.gcnfcdemo.Active
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:52:13-58
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:51:13-35
+activity#com.goodcom.gcnfcdemo.Balance
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:56:13-59
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:55:13-36
+activity#com.goodcom.gcnfcdemo.Charge
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:60:13-58
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:59:13-35
+activity#com.goodcom.gcnfcdemo.Payment
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:62:9-65:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:64:13-59
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:63:13-36
+activity#com.goodcom.gcnfcdemo.SmartCardActivity
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:66:9-69:20
+	android:label
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:68:13-62
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:67:13-46
+activity#com.goodcom.gcnfcdemo.MF3_Desfire_Activity
+ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:71:9-67
+	android:name
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:71:19-55
+uses-sdk
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e28422975cdbf249855ccda16421f984\support-v4-22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\e28422975cdbf249855ccda16421f984\support-v4-22.2.1\AndroidManifest.xml:20:5-43
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml

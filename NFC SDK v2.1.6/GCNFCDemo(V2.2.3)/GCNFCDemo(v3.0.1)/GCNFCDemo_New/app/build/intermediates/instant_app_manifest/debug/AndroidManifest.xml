@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.goodcom.gcnfcdemo"
+    android:targetSandboxVersion="2"
+    android:versionCode="301"
+    android:versionName="V3.0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.goodcom.gcnfcdemo.NFCActivity"
+            android:excludeFromRecents="true"
+            android:label="@string/app_name" >
+
+            <!-- android:noHistory="true" -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.MF0Activity"
+            android:label="@string/title_activity_mf0" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.NFC_Read"
+            android:label="@string/title_activity_nfc__read" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.NFC_Write"
+            android:label="@string/title_activity_nfc__write" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.MF1Activity"
+            android:label="@string/title_activity_mf1" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.Mifare_Write"
+            android:label="@string/title_activity_mifare__write" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.Mifare_Read"
+            android:label="@string/title_activity_mifare__read" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.E_Wallet"
+            android:label="@string/title_activity_e__wallet" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.Active"
+            android:label="@string/title_activity_active" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.Balance"
+            android:label="@string/title_activity_balance" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.Charge"
+            android:label="@string/title_activity_charge" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.Payment"
+            android:label="@string/title_activity_payment" >
+        </activity>
+        <activity
+            android:name="com.goodcom.gcnfcdemo.SmartCardActivity"
+            android:label="@string/title_activity_smart_card" >
+        </activity>
+        <activity android:name="com.goodcom.gcnfcdemo.MF3_Desfire_Activity" />
+    </application>
+
+</manifest>

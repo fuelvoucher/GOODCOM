@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.goodcom.gcnfcdemo">
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".NFCActivity"
+            android:label="@string/app_name" 
+            android:excludeFromRecents="true">
+            <!--  android:noHistory="true"-->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MF0Activity"
+            android:label="@string/title_activity_mf0" >
+        </activity>
+        <activity
+            android:name=".NFC_Read"
+            android:label="@string/title_activity_nfc__read" >
+        </activity>
+        <activity
+            android:name=".NFC_Write"
+            android:label="@string/title_activity_nfc__write" >
+        </activity>
+        <activity
+            android:name=".MF1Activity"
+            android:label="@string/title_activity_mf1" >
+        </activity>
+        <activity
+            android:name=".Mifare_Write"
+            android:label="@string/title_activity_mifare__write" >
+        </activity>
+        <activity
+            android:name=".Mifare_Read"
+            android:label="@string/title_activity_mifare__read" >
+        </activity>
+        <activity
+            android:name=".E_Wallet"
+            android:label="@string/title_activity_e__wallet" >
+        </activity>
+        <activity
+            android:name=".Active"
+            android:label="@string/title_activity_active" >
+        </activity>
+        <activity
+            android:name=".Balance"
+            android:label="@string/title_activity_balance" >
+        </activity>
+        <activity
+            android:name=".Charge"
+            android:label="@string/title_activity_charge" >
+        </activity>
+        <activity
+            android:name=".Payment"
+            android:label="@string/title_activity_payment" >
+        </activity>
+        <activity
+            android:name=".SmartCardActivity"
+            android:label="@string/title_activity_smart_card" >
+        </activity>
+
+        <activity android:name=".MF3_Desfire_Activity"></activity>
+    </application>
+
+</manifest>

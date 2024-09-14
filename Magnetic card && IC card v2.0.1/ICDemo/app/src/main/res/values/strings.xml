@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GC card test</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="tips">Mag Stripe / IC Test 2024-05-29.</string>
+	<string name="cb_debug">Debug mode</string>
+</resources>

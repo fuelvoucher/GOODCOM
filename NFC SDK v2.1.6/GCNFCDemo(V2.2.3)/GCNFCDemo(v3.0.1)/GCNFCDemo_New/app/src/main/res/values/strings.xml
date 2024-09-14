@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GCNFCDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_mf0">MF0 test</string>
+    <string name="btn_mf1">MF1 test</string>
+    <string name="btn_e_wallet">"E  wallet"</string>
+    <string name="btn_manage">"CPU card"</string>
+    <string name="title_activity_mf0">Ultralight test</string>
+    <string name="btn_button">Print String</string>
+    <string name="btn_bmp">Print Bmp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_print_test">Print Test</string>
+    <string name="title_activity_nfc__test_">NFC test</string>
+    <string name="btn_nfc_read">Read card</string>
+    <string name="btn_nfc_write">Write card</string>
+    <string name="card_info">Card Info:</string>
+    <string name="title_activity_nfc__read">NFC_Read</string>
+    <string name="read_tag">Read Tag</string>
+    <string name="write_tag">Write Tag</string>
+    <string name="read_tag_tips">Place the card on the phone to read</string>
+    <string name="title_activity_nfc__write">NFC_Write</string>
+    <string name="write_tag_tips">Write to tag</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_clear">Clear</string>
+    <string name="tips">Choose one of\nthe modes to get started!</string>
+    <string name="write_tips">Write to NFC tag here:</string>
+    <string name="title_activity_e__wallet">E_Wallet</string>
+    <string name="btn_active">"Active "</string>
+    <string name="btn_charge">Charge</string>
+    <string name="btn_balance">"Balance  "</string>
+    <string name="btn_payment">Payment</string>
+    <string name="title_activity_active">Active</string>
+    <string name="title_activity_balance">Balance</string>
+    <string name="title_activity_charge">Charge</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="tips_get_balance">Place the card on the phone to get balance</string>
+    <string name="tips_charge">Place the card on the phone to charge:</string>
+    <string name="tips_payment">Place the card on the phone to payment:</string>
+    <string name="tips_active">Place the card on the phone to erase</string>
+    <string name="tips_input_charge">Please input the charge amount(default 50):</string>
+    <string name="tips_active_result">Active success!</string>
+    <string name="tips_payment_amount">Amount to pay(default 10):</string>
+    <string name="title_activity_mf1">Mifare test</string>
+    <string name="title_activity_mifare__write">Mifare_Write</string>
+    <string name="title_activity_mifare__read">Mifare_Read</string>
+    <string name="btn_mifare_write">Mifare write</string>
+    <string name="btn_mifare_read">Mifare read</string>
+    <string name="title_activity_smart_card">SmartCardActivity</string>
+    <string name="Block">Start block:</string>
+	<string name="wBlock">Write blocks:</string>
+	<string name="rBlock">Read blocks:</string>
+
+    <string name="btn_mf3">MF3 Test</string>
+
+</resources>

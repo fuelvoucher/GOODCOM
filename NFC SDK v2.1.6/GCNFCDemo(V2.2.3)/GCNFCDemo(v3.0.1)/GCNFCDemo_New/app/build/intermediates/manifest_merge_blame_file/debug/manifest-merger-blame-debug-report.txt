@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.goodcom.gcnfcdemo"
+4    android:versionCode="301"
+5    android:versionName="V3.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:6:5-72:19
+12        android:allowBackup="true"
+12-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:7:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/ic_launcher"
+14-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:8:9-45
+15        android:label="@string/app_name"
+15-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:9:9-41
+16        android:theme="@style/AppTheme" >
+16-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:10:9-40
+17        <activity
+17-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:11:9-21:20
+18            android:name="com.goodcom.gcnfcdemo.NFCActivity"
+18-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:12:13-40
+19            android:excludeFromRecents="true"
+19-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:14:13-46
+20            android:label="@string/app_name" >
+20-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:13:13-45
+21
+22            <!-- android:noHistory="true" -->
+23            <intent-filter>
+23-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:16:13-20:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:17:17-69
+24-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:17:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:19:17-77
+26-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:19:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:22:9-25:20
+30            android:name="com.goodcom.gcnfcdemo.MF0Activity"
+30-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:23:13-40
+31            android:label="@string/title_activity_mf0" >
+31-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:24:13-55
+32        </activity>
+33        <activity
+33-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:26:9-29:20
+34            android:name="com.goodcom.gcnfcdemo.NFC_Read"
+34-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:27:13-37
+35            android:label="@string/title_activity_nfc__read" >
+35-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:28:13-61
+36        </activity>
+37        <activity
+37-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:30:9-33:20
+38            android:name="com.goodcom.gcnfcdemo.NFC_Write"
+38-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:31:13-38
+39            android:label="@string/title_activity_nfc__write" >
+39-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:32:13-62
+40        </activity>
+41        <activity
+41-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:34:9-37:20
+42            android:name="com.goodcom.gcnfcdemo.MF1Activity"
+42-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:35:13-40
+43            android:label="@string/title_activity_mf1" >
+43-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:36:13-55
+44        </activity>
+45        <activity
+45-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:38:9-41:20
+46            android:name="com.goodcom.gcnfcdemo.Mifare_Write"
+46-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:39:13-41
+47            android:label="@string/title_activity_mifare__write" >
+47-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:40:13-65
+48        </activity>
+49        <activity
+49-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:42:9-45:20
+50            android:name="com.goodcom.gcnfcdemo.Mifare_Read"
+50-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:43:13-40
+51            android:label="@string/title_activity_mifare__read" >
+51-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:44:13-64
+52        </activity>
+53        <activity
+53-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:46:9-49:20
+54            android:name="com.goodcom.gcnfcdemo.E_Wallet"
+54-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:47:13-37
+55            android:label="@string/title_activity_e__wallet" >
+55-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:48:13-61
+56        </activity>
+57        <activity
+57-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:50:9-53:20
+58            android:name="com.goodcom.gcnfcdemo.Active"
+58-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:51:13-35
+59            android:label="@string/title_activity_active" >
+59-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:52:13-58
+60        </activity>
+61        <activity
+61-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:54:9-57:20
+62            android:name="com.goodcom.gcnfcdemo.Balance"
+62-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:55:13-36
+63            android:label="@string/title_activity_balance" >
+63-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:56:13-59
+64        </activity>
+65        <activity
+65-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:58:9-61:20
+66            android:name="com.goodcom.gcnfcdemo.Charge"
+66-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:59:13-35
+67            android:label="@string/title_activity_charge" >
+67-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:60:13-58
+68        </activity>
+69        <activity
+69-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:62:9-65:20
+70            android:name="com.goodcom.gcnfcdemo.Payment"
+70-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:63:13-36
+71            android:label="@string/title_activity_payment" >
+71-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:64:13-59
+72        </activity>
+73        <activity
+73-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:66:9-69:20
+74            android:name="com.goodcom.gcnfcdemo.SmartCardActivity"
+74-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:67:13-46
+75            android:label="@string/title_activity_smart_card" >
+75-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:68:13-62
+76        </activity>
+77        <activity android:name="com.goodcom.gcnfcdemo.MF3_Desfire_Activity" />
+77-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:71:9-67
+77-->D:\Android\AndroidStudioProjects\NFC\GCNFCDemo_New\app\src\main\AndroidManifest.xml:71:19-55
+78    </application>
+79
+80</manifest>

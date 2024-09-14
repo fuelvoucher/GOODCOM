@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nfc__read.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_nfc__read.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_mifare__read.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\mifare__read.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mifare__read_new.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mifare__read_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_active.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\active.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mf3_desfire.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mf3_desfire.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_balance.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\balance.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mifare__read.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mifare__read.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_mf1.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\mf1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_charge.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\charge.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nfc.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_nfc.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smart_card.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_smart_card.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_border_write.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\drawable-xhdpi\\border_write.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_mifare__write.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\mifare__write.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_nfc__read.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\nfc__read.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_e__wallet.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\e__wallet.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_charge.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_charge.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_active.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_active.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_payment.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\payment.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mf0.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mf0.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_e__wallet.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_e__wallet.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_balance.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_balance.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_border_write_s.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\drawable-xhdpi\\border_write_s.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_mf0.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\mf0.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_nfc.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\nfc.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mifare__write.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mifare__write.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mifare__write_new.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mifare__write_new.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_nfc__write.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\menu\\nfc__write.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mf1.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_mf1.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_nfc__write.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_nfc__write.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "D:\\Android\\AndroidStudioProjects\\NFC\\GCNFCDemo_New\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    }
+]
